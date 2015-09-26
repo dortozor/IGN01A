@@ -1,0 +1,13 @@
+[Dev]
+True
+[Author]
+ondra6ak <ondra6ak@mlab.cz>
+[Descr]
+System for igniting parachute cull when altitude starts to drop
+[BuyLinkTindie]
+Link to module's page on Tindie.
+[HumanName]
+Parachute Ignition
+[BuyLinkUST]
+Link to module's page on Universal Scientific Technologies.
+[End]
